@@ -1,0 +1,23 @@
+{
+  "name": "secondo_lavoro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DomenicoPalumboMagri/secondo_lavoro.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DomenicoPalumboMagri/secondo_lavoro/issues"
+  },
+  "homepage": "https://github.com/DomenicoPalumboMagri/secondo_lavoro#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.21.1"
+  }
+}
